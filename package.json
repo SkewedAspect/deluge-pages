@@ -1,0 +1,27 @@
+{
+  "name": "deluge-pages",
+  "version": "0.1.0",
+  "description": "A simple flat-pages module for the Deluge web-framework.",
+  "main": "component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkewedAspect/deluge-pages.git"
+  },
+  "keywords": [
+    "deluge",
+    "pages",
+    "flatpages"
+  ],
+  "author": "Christopher S. Case <chris.case@g33xnexus.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkewedAspect/deluge-pages/issues"
+  },
+  "dependencies": {
+    "walk": "~2.3.1",
+    "omega-models": "~0.2.0"
+  }
+}
